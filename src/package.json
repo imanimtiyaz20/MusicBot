@@ -49,6 +49,6 @@
     "youtube-sr": "^4.3.12"
   },
   "devDependencies": {
-    "dotenv": "^17.2.3"
+    "dotenv": "^18.0.0"
   }
 }
