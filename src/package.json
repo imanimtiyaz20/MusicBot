@@ -41,7 +41,7 @@
     "os": "^0.1.2",
     "path": "^0.12.7",
     "pretty-bytes": "^7.1.0",
-    "pretty-ms": "^9.3.0",
+    "pretty-ms": "^10.0.0",
     "semver": "^7.7.3",
     "songcard": "^1.4.1",
     "systeminformation": "^5.27.11",
